@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #E1E4EF;
+    font-family: 'Roboto', sans-serif;
+
+}
+.clear-div{
+    clear: both;
+}
+.header-div{
+    background-color: #3B5998;
+    font-family:  "Segoe UI";
+    font-size: large;
+    color: white;
+    height:90px;
+    float: left;
+    width: 58%;
+    margin-top: -3px;
+}
+.header-div h1{
+    font-size: 40px;
+}
+#facebook{
+    margin-top: 25px;
+    padding-left: 190px;
+    font-size: 42px;
+    
+}
+.sign-log{
+    background-color: #3B5998;
+    float: left;
+    height:90px;
+    color: white;
+    width: 14%;
+    margin-top: -3px;
+}
+.password{
+    float: left;
+    background-color: #3B5998;
+    color: white;
+    height: 90px;
+    width: 28%;
+    margin-top: -3px;
+}
+.sign{
+    height:35px;
+    border:solid 1px gray; 
+    border-radius: 5px; 
+    font-size: 17px; 
+    width: 200px;
+    
+    color: E1E4EF;
+    text-indent: 10px;
+}
+.tel-pass{
+    width: 415px; 
+    height: 35px; 
+    border: solid 1px gray; 
+    border-radius: 5px; 
+    font-size: 17px;  
+    text-indent:10px;
+}
+.password a{
+    text-decoration: none;
+    color:rgba(201, 225, 241, 0.808);
+    font-size: small;
+}
+.password a:hover{
+    text-decoration: underline;
+}
+.social{
+    float: left;
+    width: 42%;
+    margin-left: 190px;
+}
+.sign-up{
+    float: left;
+    width: 40%;
+}
+.footer-div{
+    background-color: white;
+    margin-bottom: -15px;
+    height: 200px;
+    
+}
+.footer1{
+    margin-left: 160px;
+    padding-top: 40px;
+}
+.footer1 a{
+    text-decoration: none;
+    color: #385898;
+    font-size: 12px;
+}
+.footer1 a:hover{
+    text-decoration: underline;
+}
+.term-policy{
+    color:#385898;
+    text-decoration: none;
+}
+.term-policy:hover{
+    text-decoration: underline;
+}
